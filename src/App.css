@@ -31,7 +31,13 @@ button {
 
 }
 
-/* .digit {} */
+.digit:hover {
+      background-color: #ffff;
+}
+
+.operator:hover {
+      background-color: #ffff;
+}
 
 .operator {
       border-right: none;
